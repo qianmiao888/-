@@ -21,7 +21,7 @@
 
 API玄机
 
-需至https://www.aliyun.com/求取通义千问的"玄钥"（API Key），而后：
+需至https://www.aliyun.com/ 求取通义千问的"玄钥"（API Key），而后：
 
 1. 打开src/lib/utils.ts
 2. 找到代码第246行：
